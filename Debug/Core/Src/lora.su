@@ -1,0 +1,8 @@
+lora.c:12:9:lora_sendCmd	40	static
+lora.c:18:9:readUart	32	static
+lora.c:38:6:lora_clear_buffer	24	static
+lora.c:45:6:init_lora_instance	16	static
+lora.c:53:9:lora_getHweui	48	static
+lora.c:61:15:lora_joinOtaa	144	static
+lora.c:88:15:lora_sleep	112	static
+lora.c:104:15:lora_sendData	176	static
